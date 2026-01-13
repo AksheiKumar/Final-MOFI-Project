@@ -1,0 +1,6 @@
+.env
+configuration.py
+*.pyc
+.vscode/
+.idea/
+Thumbs.db
